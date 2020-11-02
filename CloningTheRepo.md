@@ -1,6 +1,12 @@
-#  **Here are instructions on how to clone the repo**
+# If you havent already done so setup Git and create an account on Github.#
 
-## **On a mac/linux**
+**If youre unsure of how o do so send me a dm on discord @ImranMohamed**
+
+
+
+##  **Here are instructions on how to clone the repo**
+
+### **On a mac/linux**
 
 1.  Open Terminal.
 
